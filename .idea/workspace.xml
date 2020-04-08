@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c058c95a-57f1-40f0-bf5a-fa232536533a" name="Default Changelist" comment="" />
+    <list default="true" id="c058c95a-57f1-40f0-bf5a-fa232536533a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LeetCode" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZDESER5umCNrXSD7pKmiIkDKyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,9 +33,154 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Permute">
+    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindBinary1OfInteger.Find" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FindBinary1OfInteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListAdd.ListAdd" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListAdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowAllArrangements.Permute" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShowAllArrangements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintInt.PrintInt" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrintInt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGuess.WordGuess" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WordGuess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Permute" />
+        <item itemvalue="Application.ListAdd" />
+        <item itemvalue="Application.Find" />
+        <item itemvalue="Application.WordGuess" />
+        <item itemvalue="Application.PrintInt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586179542810">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="423" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.804@0.23.1440.804" timestamp="1586179542810" />
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1586179852766">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1586176207272" />
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804@0.23.1440.804" timestamp="1586179852766" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1586321214606">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586321214606" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1586182094758" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1585054948332" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584964833463" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1586321214606">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1586321214606" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1586182094757" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1585054948331" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1584964833462" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1586321214605">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1586321214605" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1586182094756" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1585054948331" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1584964833461" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1586321214606">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1586321214606" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1586182094757" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1585054948332" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1584964833462" />
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom" timestamp="1586164068531">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586164068531" />
+    <state width="1398" height="255" key="GridCell.Tab.1.center" timestamp="1586164068530">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1586164068530" />
+    <state width="1398" height="255" key="GridCell.Tab.1.left" timestamp="1586164068530">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1586164068530" />
+    <state width="1398" height="255" key="GridCell.Tab.1.right" timestamp="1586164068531">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1586164068531" />
+    <state x="221" y="62" key="SettingsEditor" timestamp="1584365603596">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="221" y="62" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1584365603596" />
   </component>
 </project>
