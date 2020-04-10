@@ -135,7 +135,7 @@ public class InfixToSuffix {
      * 测试
      */
     public static void main(String[] args) {
-        InfixToSuffix test = new InfixToSuffix("3+2-5+6");
+        InfixToSuffix test = new InfixToSuffix("100/((32-(58 - (32-6)))/4)");
         System.out.println(test.getRes());
     }
 
