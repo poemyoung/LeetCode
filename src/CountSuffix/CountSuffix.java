@@ -1,5 +1,7 @@
 package CountSuffix;
 
+import java.util.EmptyStackException;
+
 /**
  * 计算后缀表达式算法
  * 来自：数据结构与算法分析JAVA描述习题
@@ -58,8 +60,7 @@ public class CountSuffix {
         //出栈方法
         public Object pop(){
             if(size == 0){
-                System.out.println("堆栈为空");
-                return null;
+                throw new EmptyStackException();
             }
             else {
                 return elements[--size];
@@ -137,6 +138,7 @@ public class CountSuffix {
                 stk.push(res);
             }
         }
+
         //算到最后栈中只有结果
         if(stk.size  == 1){
             results = (int)stk.pop();
