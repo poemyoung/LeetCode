@@ -1,29 +1,32 @@
-import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
+import java.util.Scanner;
 
-public class Main implements Comparator<Integer>{
+public class Main{
     public static void main(String[] args) {
-        LinkedHashMap<Integer,String> test = new LinkedHashMap(16,0.75f,true);
-        String value = "我爱陈钰琪";
-        int i = 0;
-        test.put(i++,i+"----"+value);
-        test.put(i++,i+"----"+value);
-        test.put(i++,i+"----"+value);
-        test.put(i++,i+"----"+value);
-        test.put(i++,i+"----"+value);
-        test.put(i++,i+"----"+value);
-        Set<Integer> sets = test.keySet();
-        Integer[] arr = new Integer[sets.size()];
-        sets.toArray(arr);
-        System.out.println(sets.contains(2));
-        System.out.println(Arrays.toString(arr));
-        for (Integer a : arr){
-            System.out.println(test.get(a));
+        //处理输入
+        Scanner in =  new Scanner(System.in);
+        int n = in.nextInt();
+        int m = in.nextInt();
+        int a = in.nextInt();
+        int b = in.nextInt();
+        //处理特殊情况，够分
+        if(m % n == 0){
+            System.out.println(0);
+            return;
         }
+        //处理一般情况
+        //第一种情况，m < n，只需要执行其中的一种方法即可
+        if(a > b){
+            //买礼物
+            System.out.println((n-m) * b);
+            return;
+        }else {
+            //发红包
+            System.out.println((n-m) * a);
+            return;
+        }
+        //第二种情况,m > n，此时可能存在两种方法一起执行的情况
+
+
     }
 
-    @Override
-    public int compare(Integer o1, Integer o2) {
-        return o1-o2;
-    }
 }
