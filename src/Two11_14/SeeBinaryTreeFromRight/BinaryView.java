@@ -1,4 +1,4 @@
-package SeeBinaryTreeFromRight;
+package Two11_14.SeeBinaryTreeFromRight;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package WordGuess;
+package Two11_14.WordGuess;
 
 public class WordGuess {
     //待查单词表
