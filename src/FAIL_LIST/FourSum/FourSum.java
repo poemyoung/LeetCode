@@ -1,4 +1,4 @@
-package FourSum;
+package FAIL_LIST.FourSum;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
