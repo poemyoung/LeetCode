@@ -1,4 +1,4 @@
-package MaxProfit;
+package Three24_30.MaxProfit;
 
 import java.util.ArrayList;
 

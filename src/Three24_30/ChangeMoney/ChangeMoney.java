@@ -1,6 +1,5 @@
-package ChangeMoney;
+package Three24_30.ChangeMoney;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
