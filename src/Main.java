@@ -1,18 +1,15 @@
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.NoSuchElementException;
-import java.util.Scanner;
+import java.util.*;
 import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) {
-       LinkedList<Integer>link = new LinkedList<>();
-       link.push(1);
-       link.push(2);
-       link.push(3);
-       link.removeLast();
-        Iterator<Integer> it = link.iterator();
-        while (it.hasNext()) {
+        int[] a = {3,42,54,65,32,33,2,2,1};
+        Queue<Integer> test = new PriorityQueue<>();
+        test.add(4);
+        test.add(2);
+
+        Iterator<Integer> it = test.iterator();
+        while (it.hasNext()){
             System.out.println(it.next());
         }
     }
